@@ -1,2 +1,1 @@
-*.csharp-linguist-language=Java
-*.hlsl-linguist-language=Java
+*.* linguist-language=Java

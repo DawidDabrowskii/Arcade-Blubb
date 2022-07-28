@@ -1,3 +1,2 @@
-* linguist-vendored=.ShaderLab
-* linguist-vendored=.hlsl
-*.csharp-linguist-vendored=false
+*.ShaderLab-linguist-vendored
+*.hlsl-linguist-vendored=.hlsl

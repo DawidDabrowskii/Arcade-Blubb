@@ -5,5 +5,4 @@
 *.xml linguist-detectable=false 
 *.ShaderLab linguist-detectable=false 
 * linguist-vendored
-*.csharp linguist-vendored=false
 *.hlsl linguist-detectable=false 

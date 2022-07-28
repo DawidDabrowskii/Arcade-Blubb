@@ -1,2 +1,3 @@
 *.ShaderLab-linguist-vendored
 *.hlsl-linguist-vendored=.hlsl
+static/* linguist-vendored
